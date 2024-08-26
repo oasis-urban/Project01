@@ -34,7 +34,8 @@ Using blockchain technology in the decentralized platform for selling heritage p
 
 ![User Flow in Blockchain](https://i.ibb.co/9hKZ3Yv/user-flow-in-blockchain-mp.png)
 
-#### Warehouse
+#### Delivery System
+#### Warehouse Managament
 ```
 1. Dhaka
 2. Chittagong
