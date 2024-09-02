@@ -96,5 +96,5 @@ Route::middleware(['auth', 'admin'])->group(function () {
 
 
 Route::get('password', function () {
-  return bcrypt('tinishop()');
+  return bcrypt('HeritageHub()');
 });

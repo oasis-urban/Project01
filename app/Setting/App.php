@@ -12,17 +12,17 @@ class App
     /**
      * App static URL.
      */
-    const url = "https://tinishopbd.com/";
+    const url = "https://heritagehubbd.com/";
 
     /**
      * App static content text.
      */
-    const content = "Tinishop Online Shopping In Bangladesh - Buy products at Low prices with Cash on delivery in Dhaka, Chittagong, Khulna, Sylhet and across country.";
+    const content = "HeritageHub Online Shopping In Bangladesh - Buy products at Low prices with Cash on delivery in Dhaka, Chittagong, Khulna, Sylhet and across country.";
 
     /**
      * App static description text.
      */
-    const description = "Tinishop Online Shopping In Bangladesh - Buy products at Low prices with Cash on delivery in Dhaka, Chittagong, Khulna, Sylhet and across country.";
+    const description = "HeritageHub Online Shopping In Bangladesh - Buy products at Low prices with Cash on delivery in Dhaka, Chittagong, Khulna, Sylhet and across country.";
 
     /**
      * App static title.
@@ -42,7 +42,7 @@ class App
     /**
      * App static facebook url
      */
-    const fb = "https://www.facebook.com/TINISHOPBD/";
+    const fb = "https://www.facebook.com/heritagehubBD/";
 
     /**
      * Admin static e-mail;
